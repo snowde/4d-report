@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _competitor-analysis-label:
 
-Terminology
-===============
+Competitor Analysis
+===================
 
 Public Sources
 --------------
