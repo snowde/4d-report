@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _employee-analysis-label:
 
-Terminology
-===============
+Employee Analysis
+=================
 
 Public Sources
 --------------
