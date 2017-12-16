@@ -16,14 +16,13 @@ The MDRM has two core objectives:
     * The aggregation and interpretation of all company specific publicly available data. 
     * Intelligent decision making based on interpreted knowledge. 
 
-MDRM has the following tenants:
+MDRM has the following qualities:
 
-    * Full Automation. 
-    * Multi-disciplinary Interpretations.
-    * Full Automation. 
-    * Dynamic Learning.
-    
-
+    * Semi-Automated. 
+    * Interactive.
+    * Industry Adjusted.
+    * Intelligent. 
+    * Competitor Specific. 
 
 .. image:: ../images/introduction_ts_exa_features.png
    :scale: 70 %
