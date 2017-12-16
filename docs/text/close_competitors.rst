@@ -1,7 +1,7 @@
-.. _data-formats-label:
+.. _close-competitors-label:
 
-Data Formats
-============
+Close Competitors
+=================
 
 tsfresh offers three different options to specify the time series data to be used in the
 :func:`tsfresh.extract_features` function (and all utility functions that expect a time series, e.g. the
