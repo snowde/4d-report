@@ -1,7 +1,6 @@
-.. _terminology-label:
-
-Terminology
-===============
+.. _management-analysis-label:
+Management Analysis
+===================
 
 Public Sources
 --------------
