@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _executive-advice-label:
 
-Terminology
-===============
+Executive Advice
+================
 
 Public Sources
 --------------
