@@ -1,23 +1,43 @@
-.. _sklearn-transformers-label:
+.. _terminology-label:
 
-scikit-learn Transformers
-=========================
+Terminology
+===============
 
-tsfresh includes three scikit-learn compatible transformers.
-You can easily add them to your existing data science pipeline.
-If you are not familiar with scikit-learn's pipeline we recommend you take a look at the official documentation [1]_.
+Public Sources
+==============
 
-The purpose of such a pipeline is to assemble several preprocessing steps that can be cross-validated together while
-setting different parameters.
-Our tsfresh transformer allows you to extract and filter the time series features during such a preprocessing sequence.
 
-The first two estimators contained in tsfresh are the :class:`~tsfresh.transformers.feature_augmenter.FeatureAugmenter`,
-which extracts the features, and the :class:`~tsfresh.transformers.feature_selector.FeatureSelector`, which only
-performs the feature selection algorithm.
-It is preferable to combine extracting and filtering of the features in a single step to avoid unnecessary feature
-calculations.
-Hence, we have the :class:`~tsfresh.transformers.feature_augmenter.RelevantFeatureAugmenter`, which combines both the
-extraction and filtering of the features in a single step.
+Employee
+--------
+
+   * Glassdoor
+   * Linkedin
+   * Indeed
+
+Customer
+--------
+
+   * Google
+   * Yelp
+   * Facebook
+
+
+Manager
+--------
+
+   * Glassdoor
+   * Linkedin
+   * Indeed
+
+
+Shareholder
+-----------
+
+   * Google
+   * Morningstar
+   * Yahoo
+   
+
 
 Example
 -------
