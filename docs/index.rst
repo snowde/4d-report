@@ -9,8 +9,6 @@ It automatically calculates a large number of time series characteristics, the s
 Further the package contains methods to evaluate the explaining power and importance of such characteristics for
 regression or classification tasks.
 
-You can jump right into the package by looking into our :ref:`quick-start-label`.
-
 Contents
 ========
 
@@ -20,6 +18,18 @@ The following chapters will explain the tsfresh package in detail:
    :maxdepth: 1
 
    Introduction <text/introduction>
+   Terminology <text/terminology>
+   Executive Summary <text/executive_summary>
+   Executive Advice <text/executive_advice>
+   Trend Analysis <text/trend_analysis>
+   Sensitivity and Valuation Analysis <text/sensitivity_valuation>
+   Competitor Analysis <text/competitor_analysis>
+   Employee Analysis <text/employee_analysis>
+   Management Analysis <text/management_analysis>
+   Dimensional Analysis <text/dimensional_analysis>
+   Appendix <text/appendix>
+   FAQ <text/faq>
+   How to contribute <text/how_to_contribute>
 
 
 
