@@ -1,6 +1,6 @@
-.. _terminology-label:
+.. _trend-analysis-label:
 
-Terminology
+Trend Analysis
 ===============
 
 Public Sources
