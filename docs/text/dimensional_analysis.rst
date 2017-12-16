@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _dimensional-analysis-label:
 
-Terminology
-===============
+Dimensional Analysis
+====================
 
 Public Sources
 --------------
