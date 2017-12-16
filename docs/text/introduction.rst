@@ -24,7 +24,7 @@ MDRM has the following qualities:
     * Intelligent. 
     * Competitor Specific. 
 
-.. image:: ../images/introduction_ts_exa_features.png
+.. image:: ../images/introduction_sample.png
    :scale: 70 %
    :alt: some characteristics of the time series
    :align: center
