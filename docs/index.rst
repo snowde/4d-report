@@ -31,9 +31,6 @@ The following chapters will explain the tsfresh package in detail:
    Dimensional Analysis <text/dimensional_analysis>
    Appendix <text/appendix>
    FAQ <text/faq>
-   Authors <authors>
-   License <license>
-   Changelog <changes>
    How to contribute <text/how_to_contribute>
 
 
