@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _executive-summary-label:
 
-Terminology
-===============
+Executive Summary
+=================
 
 Public Sources
 --------------
