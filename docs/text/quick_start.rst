@@ -1,17 +1,40 @@
 .. _quick-start-label:
 
-Quick Start
-===========
+Public Sources
+==============
 
 
-Install tsfresh
----------------
+Employee
+--------
 
-As the compiled tsfresh package is hosted on the Python Package Index (PyPI) you can easily install it with pip
+   * Glassdoor
+   * Linkedin
+   * Indeed
 
-.. code:: shell
+Customer
+--------
 
-   pip install tsfresh
+   * Google
+   * Yelp
+   * Facebook
+
+
+Manager
+--------
+
+   * Glassdoor
+   * Linkedin
+   * Indeed
+
+
+Shareholder
+-----------
+
+   * Google
+   * Morningstar
+   * Yahoo
+   
+
 
 
 Dive in
