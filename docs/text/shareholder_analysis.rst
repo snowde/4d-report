@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _shareholder-analysis-label:
 
-Terminology
-===============
+Shareholder Analysis
+====================
 
 Public Sources
 --------------
