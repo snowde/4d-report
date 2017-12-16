@@ -32,15 +32,6 @@ The following chapters will explain the tsfresh package in detail:
    How to contribute <text/how_to_contribute>
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
 Acknowledgements
 ================
 
