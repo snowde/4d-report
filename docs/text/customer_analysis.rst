@@ -1,7 +1,7 @@
-.. _terminology-label:
+.. _customer-analysis-label:
 
-Terminology
-===============
+Customer Analysis
+=================
 
 Public Sources
 --------------
