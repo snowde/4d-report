@@ -4,20 +4,20 @@ Terminology
 ===============
 
 Public Sources
-++++++++++++++
+--------------
 
-___
+
 
 
 Employee
---------
+^^^^^^^^
 
    * Glassdoor
    * Linkedin
    * Indeed
 
 Customer
---------
+^^^^^^^^
 
    * Google
    * Yelp
@@ -25,7 +25,7 @@ Customer
 
 
 Manager
---------
+^^^^^^^
 
    * Glassdoor
    * Linkedin
@@ -33,7 +33,7 @@ Manager
 
 
 Shareholder
------------
+^^^^^^^^^^^
 
    * Google
    * Morningstar
@@ -42,4 +42,4 @@ Shareholder
 
    
 Close Competitors
-=================
+-----------------
