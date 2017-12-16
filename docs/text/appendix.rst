@@ -1,6 +1,6 @@
-.. _terminology-label:
+.. _appendix-label:
 
-Terminology
+Appendix
 ===============
 
 Public Sources
