@@ -20,9 +20,7 @@ The following chapters will explain the tsfresh package in detail:
    :maxdepth: 1
 
    Introduction <text/introduction>
-   Quick Start <text/quick_start>
-   Module Reference <api/modules>
-   Data Formats <text/data_formats>
+   Terminology <text/terminology>
    scikit-learn Transformers <text/sklearn_transformers>
    List of Calculated Features <text/list_of_features>
    Feature Calculation <text/feature_calculation>
